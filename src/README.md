@@ -1,9 +1,9 @@
-# Student Scaffold
+# Completed Lab Source
 
-This `src/` folder is the student version of the lab.
+This `src/` folder contains the completed Day 17 memory-system lab.
 
-- It keeps the same high-level structure
-- The Python files are intentionally incomplete and contain pseudocode / TODOs
+- It keeps the same high-level structure as the scaffold
+- The Python files implement deterministic offline behavior for tests and benchmark runs
 - The benchmark structure should include: standard benchmark + long-context stress benchmark
 - The runtime should support these providers: `openai`, `custom`, `gemini`, `anthropic`, `ollama`, `openrouter`
 
